@@ -4,5 +4,11 @@ PersonOuterClass.java
  PersonOuterClass$Person$1
  PersonOuterClass$Person$Builder
  PersonOuterClass$PersonOrBuilder
+main/PersonOuterClass.java
+ main.PersonOuterClass
+ main.PersonOuterClass$Person
+ main.PersonOuterClass$Person$1
+ main.PersonOuterClass$Person$Builder
+ main.PersonOuterClass$PersonOrBuilder
 Proto.java
  Proto
